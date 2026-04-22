@@ -1,4 +1,4 @@
-// que 1
+// question 1
 #include <iostream>
 using namespace std;
 
@@ -36,7 +36,7 @@ int main()
     }
 }
 
-//que 2
+//question 2
 #include<iostream>
  using namespace std;
  
@@ -100,7 +100,7 @@ int main()
     return 0;
 }
 
-// que 3,que 4
+// question 3,question 4
 #include<iostream>
 using namespace std;
 
@@ -197,7 +197,7 @@ int main()
     return 0;
 }
 
-//que 5
+//question 5
 
 #include<iostream>
  using namespace std;
